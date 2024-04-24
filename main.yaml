@@ -1,0 +1,54 @@
+- name: Bhanu
+  email: john@example.com
+  position: PhD
+  photo: 'bhanu.png'
+
+- name: Karthik
+  email: jane@example.com
+  position: MS
+  photo: 'karthik.jpg'
+- name: Lakshman
+  email: alice@example.com
+  position: UG
+  photo: 'lakshman.jpg'
+- name: Manoj
+  email: john@example.com
+  position: MSC
+  photo: 'manoj.jpg'
+
+- name: Rajender
+  email: jane@example.com
+  position: MS
+  photo: 'RAENDAHR.jpg'
+
+- name: Rakesh
+  email: alice@example.com
+  position: UG
+  photo: 'rakesh.jpg'
+  
+- name: vamshi
+  email: john@example.com
+  position: PhD
+  photo: 'vamshi.jpg'
+
+- name: Zakeer
+  email: jane@example.com
+  position: MS
+  photo: 'zakeer.jpg'
+
+
+- name: Muzakir
+  email: john@example.com
+  position: PhD
+  photo: 'muzakir.jpg'
+
+- name: Ajay
+  email: jane@example.com
+  position: MBA
+  photo: 'ajay.jpg'
+
+- name: Siddu
+  email: alice@example.com
+  position: MBA
+  photo: 'siddu.jpg'
+  
